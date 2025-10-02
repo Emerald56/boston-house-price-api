@@ -1,0 +1,16 @@
+# Ignore Python Cache
+__pycache__/
+*.__pycache__
+
+# Ignore Local Virtual env
+.venv/
+
+# Ignore git
+.git
+.gitignore
+
+# Ignore system files
+.DS_Store
+
+# Ignore environment config
+.env
